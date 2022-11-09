@@ -1,0 +1,50 @@
+cv{ 
+text-align: center;
+padding-left: 500px
+padding-right: 500px;
+padding-top: 50px
+
+
+}
+
+img { 
+	border-radius: 50%;
+	width: 220px; 
+	height: 300px;
+	
+}
+
+
+body{ 
+	background-color: grey;
+
+}
+
+div{ 
+	background-color: white;
+	padding: 40px;
+	width: 650px;
+	margin: 40px auto; 
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) ; 
+
+}
+
+a{
+	border-radius: 4px;
+	color: white;
+	background-color: pink;
+	text-decoration: none; 
+	padding: 10px 15px;
+
+
+ }
+
+ a:hover {
+ 		background-color: black; 
+
+ }
+
+ li{ 
+ 	color: pink
+
+ }
